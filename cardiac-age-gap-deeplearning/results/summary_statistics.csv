@@ -1,0 +1,6 @@
+group,n,mean_gap,std_gap,p_value,cohens_d,significant
+NORM,9522,0.00,9.67,reference,reference,reference
+CD,2304,2.55,11.53,1.16e-27,0.24,Yes
+STTC,2807,1.87,11.35,6.96e-18,0.18,Yes
+MI,5403,1.08,12.08,2.35e-09,0.10,Yes
+HYP,1309,-0.18,11.46,0.55,0.02,No
