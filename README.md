@@ -160,7 +160,7 @@ If you use this code, please cite:
 ```bibtex
 @abstract{paruchuri2026ecg,
   title     = {A Deep Learning Approach to Quantifying Cardiac Biological Age Gap from 12-Lead Electrocardiography},
-  author    = {Paruchuri, Amith and Paruchuri, Riddhi},
+  author    = {Paruchuri, Amith and Paruchuri, Riddhi and Mukkamula, Pavan Kalyan},
   booktitle = {AHA Scientific Sessions 2026},
   year      = {2026},
   note      = {Control \#2026-A-15429-AHA}
@@ -172,6 +172,8 @@ If you use this code, please cite:
 Amith Paruchuri, MBBS Intern, All India Institute of Medical Sciences (AIIMS), New Delhi; Remote Researcher, Madabhushi Lab, Emory University; Khorana Scholar, Harvard Medical School; Co-founder, Aterenex.
 
 Riddhi Paruchuri, Ohio State University.
+
+Pavan Kalyan Mukkamula, Final-year MBBS student, All India Institute of Medical Sciences (AIIMS), New Delhi.
 
 ## Acknowledgements
 
